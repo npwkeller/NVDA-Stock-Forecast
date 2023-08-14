@@ -10,4 +10,6 @@ The model performed very well with an RMSE of $15.53 and r^2 of .958 but looking
 
 Moving forward, I would like to further experiment with the hyperparamters and layer set up of the model. Adjusting things such as neurons, batch size, dropout, etc..
 
+It is important to note some of the summary statistics have changed discussed in the markdown lines due to running the model on different days.
+
 Let me know if you have any comments or feedback. I can be reach at npwkeller@gmail.com or https://www.linkedin.com/in/ian-keller-31a86719a/
